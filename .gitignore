@@ -1,0 +1,15 @@
+# Backend repo cloned here only for local testing (it lives in 6731503032/student_identity)
+/student_identity/
+
+# Dependencies and secrets
+node_modules/
+.env
+.env.*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
